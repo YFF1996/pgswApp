@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "瓶盖思维",
+  "usingComponents": {
+    "login-page": "/components/loginPageTemplate/index"
+  }
+}

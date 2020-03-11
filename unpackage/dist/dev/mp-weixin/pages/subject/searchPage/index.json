@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "全部搜索",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "input-seek": "/components/inputSeekTemplate/index",
+    "video-list": "/components/videoListTemplate/index",
+    "subject-list": "/components/subjectListTemplate/index",
+    "suspend-play": "/components/suspendPlayTemplate/index",
+    "loading-more": "/components/loadingMoreTemplate/index"
+  }
+}

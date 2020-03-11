@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "我的收藏",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "video-list": "/components/videoListTemplate/index",
+    "subject-list": "/components/subjectListTemplate/index",
+    "article-list": "/components/articleListTemplate/index",
+    "suspend-play": "/components/suspendPlayTemplate/index",
+    "loading-more": "/components/loadingMoreTemplate/index"
+  }
+}

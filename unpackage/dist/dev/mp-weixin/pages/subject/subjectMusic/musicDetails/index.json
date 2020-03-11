@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "音频详情",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "parser": "/components/jyf-parser/jyf-parser",
+    "comment-list": "/components/commentListTemplate/index"
+  }
+}

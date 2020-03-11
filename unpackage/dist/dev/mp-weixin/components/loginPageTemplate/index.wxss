@@ -1,0 +1,53 @@
+.login-page-wrapper.data-v-09cd7f44 {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  font-size: 13px;
+}
+.login-page-wrapper .title.data-v-09cd7f44 {
+  margin-top: 40px;
+  width: 100%;
+  height: auto;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 27px;
+  color: #333;
+}
+.login-page-wrapper .avatar.data-v-09cd7f44 {
+  margin: 65px auto 45px;
+  width: 281px;
+  height: 201px;
+}
+.login-page-wrapper .avatar ._img.data-v-09cd7f44 {
+  width: 100%;
+  height: 100%;
+}
+.login-page-wrapper .agreement.data-v-09cd7f44 {
+  color: #999;
+}
+.login-page-wrapper .agreement .content.data-v-09cd7f44 {
+  color: #578df9;
+}
+.login-page-wrapper .submit-btn.data-v-09cd7f44 {
+  position: relative;
+  margin: 33px auto 18px;
+  width: 275px;
+  height: 40px;
+  line-height: 40px;
+  color: #fff;
+  border-radius: 20px;
+  box-shadow: 0 10px 10px #efefef;
+  background-color: #ff6464;
+}
+.login-page-wrapper .submit-btn button.data-v-09cd7f44 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+}
+.login-page-wrapper .hint.data-v-09cd7f44 {
+  color: #6b6b6d;
+}
+

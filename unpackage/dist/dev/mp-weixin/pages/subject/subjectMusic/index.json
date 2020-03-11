@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "专题详情",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "subject-intro": "/components/subjectIntroduceTemplate/index",
+    "child-list": "/components/subjectChildListTemplate/index",
+    "similar-course": "/components/similarCourseListTemplate/index",
+    "comment-list": "/components/commentListTemplate/index",
+    "loading-more": "/components/loadingMoreTemplate/index",
+    "subject-state-bar": "/components/subjectStateBarTemplate/index"
+  }
+}

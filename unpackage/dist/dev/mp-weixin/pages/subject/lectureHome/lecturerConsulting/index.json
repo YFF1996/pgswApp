@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "咨询主页",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {}
+}

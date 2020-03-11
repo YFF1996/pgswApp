@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "收入",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "income-list": "/components/incomeListTemplate/index",
+    "extract-list": "/components/extractListTemplate/index",
+    "rule-popup": "/components/rulePopupTemplate/index",
+    "loading-more": "/components/loadingMoreTemplate/index"
+  }
+}

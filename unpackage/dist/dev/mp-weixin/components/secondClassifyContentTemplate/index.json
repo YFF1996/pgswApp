@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "special-box": "/components/specialBoxTemplate/index",
+    "special-list": "/components/specialClassifyListTemplate/index",
+    "loading-more": "/components/loadingMoreTemplate/index"
+  }
+}

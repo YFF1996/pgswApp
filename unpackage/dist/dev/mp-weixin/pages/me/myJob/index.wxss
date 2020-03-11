@@ -1,0 +1,99 @@
+.job-wrapper.data-v-049a0eec {
+  width: 100%;
+  height: auto;
+  background-color: #f8f8f8;
+}
+.job-wrapper .content-box.data-v-049a0eec {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  margin-top: 7px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  width: 100%;
+  height: auto;
+}
+.job-wrapper .content-box .scroll-view.data-v-049a0eec {
+  width: 100%;
+  height: 100%;
+}
+.job-wrapper .content-box .scroll-view ._ul.data-v-049a0eec {
+  width: 100%;
+  height: auto;
+  margin-top: 14px;
+}
+.job-wrapper .content-box .scroll-view ._ul ._li.data-v-049a0eec {
+  margin-bottom: 18px;
+  padding-right: 10px;
+  height: 30px;
+  font-size: 15px;
+  line-height: 30px;
+  color: #0f0f0f;
+}
+.job-wrapper .content-box .scroll-view ._ul ._li.active.data-v-049a0eec {
+  color: #ff4040;
+}
+.job-wrapper .content-box .nav-box.data-v-049a0eec {
+  padding-left: 15px;
+  width: 100%;
+  height: auto;
+  box-sizing: border-box;
+  background-color: #fff;
+}
+.job-wrapper .content-box .info-box.data-v-049a0eec {
+  padding-left: 21px;
+  width: 100%;
+  height: auto;
+  box-sizing: border-box;
+  background-color: #fafbfb;
+}
+.job-wrapper .content-box .info-box .scroll-view ._ul ._li.data-v-049a0eec {
+  margin-bottom: 23px;
+}
+.job-wrapper .content-box.data-v-049a0eec ::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+  display: none;
+}
+.job-wrapper .change-wrapper.data-v-049a0eec {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+.job-wrapper .change-wrapper .change-box.data-v-049a0eec {
+  margin: 7px 0 45px;
+  padding: 20px 18px 21px 15px;
+  box-sizing: border-box;
+  background-color: #fff;
+}
+.job-wrapper .change-wrapper .change-box ._h3.data-v-049a0eec {
+  margin-bottom: 16px;
+  font-size: 15px;
+  line-height: 15px;
+  color: #7a7979;
+}
+.job-wrapper .change-wrapper .change-box .change-info.data-v-049a0eec {
+  font-size: 14px;
+  line-height: 14px;
+  color: #959494;
+}
+.job-wrapper .change-wrapper .btn-box.data-v-049a0eec {
+  padding: 0 15px;
+}
+.job-wrapper .change-wrapper .btn-box .change-btn.data-v-049a0eec {
+  width: 100%;
+  height: 46px;
+  line-height: 46px;
+  font-size: 16px;
+  text-align: center;
+  color: #fff;
+  border-radius: 25px;
+  background-color: #ff4040;
+}
+

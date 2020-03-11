@@ -1,0 +1,104 @@
+.bound-wrapper.data-v-e3110032 {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: auto;
+  background-color: #f8f8f8;
+}
+.bound-wrapper ._ul.data-v-e3110032 {
+  margin: 7px 0 40px;
+}
+.bound-wrapper ._ul ._li.data-v-e3110032 {
+  width: 100%;
+  height: 70px;
+  padding: 0 15px;
+  margin-bottom: 1px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  box-sizing: border-box;
+  background-color: #fff;
+}
+.bound-wrapper ._ul ._li ._h3.data-v-e3110032 {
+  width: 64px;
+  height: 100%;
+  padding-right: 28px;
+  line-height: 70px;
+  font-size: 16px;
+  color: #333;
+}
+.bound-wrapper ._ul ._li .right.data-v-e3110032 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.bound-wrapper ._ul ._li .right input.data-v-e3110032 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  height: 100%;
+  padding-right: 5px;
+  font-size: 14px;
+  text-align: right;
+  color: #333;
+}
+.bound-wrapper ._ul ._li .right .select-box.data-v-e3110032 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.bound-wrapper ._ul ._li .right .select-box .select.data-v-e3110032 {
+  width: 25px;
+  height: 25px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  border: 1px solid #eee;
+  border-radius: 50%;
+}
+.bound-wrapper ._ul ._li .right .select-box .select.active.data-v-e3110032 {
+  border: 1px solid #ff4040;
+}
+.bound-wrapper ._ul ._li .right .select-box .select .circle.data-v-e3110032 {
+  width: 15px;
+  height: 15px;
+  background: #ff4040;
+  border-radius: 50%;
+}
+.bound-wrapper .btn-box.data-v-e3110032 {
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+.bound-wrapper .btn-box .btn.data-v-e3110032 {
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  font-size: 16px;
+  text-align: center;
+  color: #fff;
+  border-radius: 25px;
+  background-color: #ff4040;
+}
+

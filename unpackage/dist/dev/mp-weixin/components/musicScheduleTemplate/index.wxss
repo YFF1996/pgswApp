@@ -1,0 +1,41 @@
+.music-schedule-wrapper.data-v-1126e5bc {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: auto;
+  padding: 20px 20px 10px 20px;
+  box-sizing: border-box;
+}
+.music-schedule-wrapper .schedule-num.data-v-1126e5bc {
+  position: absolute;
+  left: 0;
+  top: -35px;
+  width: 100%;
+  height: auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.music-schedule-wrapper .schedule-num .text.data-v-1126e5bc {
+  font-size: 18px;
+  color: rgba(255,255,255,0.8);
+}
+.music-schedule-wrapper .schedule-num .text.active.data-v-1126e5bc {
+  color: #fff;
+}
+.music-schedule-wrapper .schedule-num .line.data-v-1126e5bc {
+  padding: 0 5px;
+  line-height: 24px;
+  font-size: 14px;
+  color: #fff;
+}
+.music-schedule-wrapper .slider.data-v-1126e5bc {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+

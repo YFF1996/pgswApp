@@ -1,0 +1,168 @@
+.news-list-wrapper.data-v-699f5717 {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: auto;
+  padding: 0 15px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  background-color: #f8f8f8;
+  box-sizing: border-box;
+}
+.news-list-wrapper .white-fixed.data-v-699f5717 {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 59px;
+  background-color: #fff;
+  z-index: 20;
+}
+.news-list-wrapper .scroll-view.data-v-699f5717 {
+  width: 100%;
+  height: 100%;
+}
+.news-list-wrapper .scroll-view .news-bg.data-v-699f5717 {
+  position: relative;
+  top: 80px;
+  width: 100%;
+  height: 130px;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.news-list-wrapper .scroll-view .news-bg ._img.data-v-699f5717 {
+  width: 100%;
+  height: 100%;
+  border-radius: 4px;
+}
+.news-list-wrapper .scroll-view .news-bg .news-mask.data-v-699f5717 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.1);
+}
+.news-list-wrapper .scroll-view .news-bg .news-text.data-v-699f5717 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  padding: 34px 20px 0;
+  box-sizing: border-box;
+}
+.news-list-wrapper .scroll-view .news-bg .news-text ._p.data-v-699f5717 {
+  font-size: 20px;
+  line-height: 35px;
+  color: #fff;
+}
+.news-list-wrapper .scroll-view .news-bg .news-text .title.data-v-699f5717 {
+  font-weight: bold;
+}
+.news-list-wrapper .scroll-view ._ul.data-v-699f5717 {
+  width: 100%;
+  height: auto;
+  padding-top: 100px;
+}
+.news-list-wrapper .scroll-view ._ul ._li.data-v-699f5717 {
+  width: 100%;
+  height: auto;
+  padding: 15px;
+  margin-bottom: 10px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  box-sizing: border-box;
+  background-color: #fff;
+  border-radius: 4px;
+}
+.news-list-wrapper .scroll-view ._ul ._li .news-content.data-v-699f5717 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  height: auto;
+  padding-right: 30px;
+}
+.news-list-wrapper .scroll-view ._ul ._li .news-content .title.data-v-699f5717 {
+  width: 100%;
+  min-height: 20px;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 22px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  color: #333;
+}
+.news-list-wrapper .scroll-view ._ul ._li .news-content .date.data-v-699f5717 {
+  padding-top: 18px;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font-size: 12px;
+  color: #999;
+}
+.news-list-wrapper .scroll-view ._ul ._li .news-content .date ._i.data-v-699f5717 {
+  width: 12px;
+  height: 12px;
+}
+.news-list-wrapper .scroll-view ._ul ._li .news-content .date ._i ._img.data-v-699f5717 {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.news-list-wrapper .scroll-view ._ul ._li .news-content .date ._span.data-v-699f5717 {
+  padding-left: 6px;
+}
+.news-list-wrapper .scroll-view ._ul ._li .news-play.data-v-699f5717 {
+  width: 32px;
+  height: auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.news-list-wrapper .scroll-view ._ul ._li .news-play ._img.data-v-699f5717 {
+  width: 26px;
+  height: 26px;
+  display: none;
+}
+.news-list-wrapper .scroll-view ._ul ._li .news-play .play.data-v-699f5717 {
+  display: block;
+}
+.news-list-wrapper .scroll-view ._ul ._li.data-v-699f5717:last-child {
+  margin-bottom: 0;
+}
+.news-list-wrapper .scroll-view ._ul .active .news-content .title.data-v-699f5717 {
+  color: #ec6b38;
+}
+.news-list-wrapper .scroll-view ._ul .active .news-play .play.data-v-699f5717 {
+  display: none;
+}
+.news-list-wrapper .scroll-view ._ul .active .news-play .pause.data-v-699f5717 {
+  display: block;
+}
+.news-list-wrapper.data-v-699f5717 ::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+}
+

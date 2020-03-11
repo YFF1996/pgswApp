@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "知识和钱，我全都要",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "all-grab-floating-window": "/components/allGrabFloatingWindowTemplate/index",
+    "tuition-list": "/components/tuitionListTemplate/index",
+    "tuition-second": "/components/tuitionSecondListTemplate/index",
+    "rule-popup": "/components/rulePopupTemplate/index",
+    "tuition-me-list": "/components/tuitionMeListTemplate/index",
+    "loading-more": "/components/loadingMoreTemplate/index",
+    "suspend-play": "/components/suspendPlayTemplate/index"
+  }
+}

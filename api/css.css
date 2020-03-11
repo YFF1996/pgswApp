@@ -1,0 +1,76 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+ul li {
+	list-style: none;
+}
+
+.content-wrapper .p, .content-wrapper ul li {
+  margin-bottom: 15px;
+  font-size: 15px;
+  line-height: 30px;
+  text-indent: 2em;
+  letter-spacing: 1px;
+  text-align: justify;
+  text-justify: inter-ideograph;
+  color: #333;
+}
+
+.commodity-content image, .content-wrapper ul li image, .hint-content image, .introduce-box image, .editor-box .wxParse image {
+  width: 100% !important;
+  height: auto;
+  display: block;
+  border: none !important;
+}
+
+.blurb-text .wxParse .p, .commodity-content .wxParse .p, .editor-box .wxParse .p {
+  padding: 10px 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+  line-height: 18px;
+}
+.editor-box .wxParse .strong {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.editor-box .wxParse .h1 {
+  padding: 10px 15px;
+  box-sizing: border-box;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.editor-box .wxParse .h2 {
+  padding: 10px 15px;
+  box-sizing: border-box;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.editor-box .wxParse .h3 {
+  padding: 10px 15px;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.bg-color {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  botttom: 0;
+  width: 100%;
+  height: 100%;
+  background: #f8f8f8;
+  z-index: -1;
+}
+
+.scroll-view::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+}

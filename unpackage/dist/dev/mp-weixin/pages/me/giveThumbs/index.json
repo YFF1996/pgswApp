@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我的点赞",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "video-list": "/components/videoListTemplate/index",
+    "suspend-play": "/components/suspendPlayTemplate/index",
+    "loading-more": "/components/loadingMoreTemplate/index"
+  }
+}

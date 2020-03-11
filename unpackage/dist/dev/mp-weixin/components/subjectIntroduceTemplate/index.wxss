@@ -1,0 +1,30 @@
+.mini-play-wrapper.data-v-44ac5317 {
+  width: 100%;
+  height: auto;
+  color: #333;
+}
+.mini-play-wrapper .info.data-v-44ac5317 {
+  position: relative;
+  width: 100%;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.mini-play-wrapper .info .not-data-wrapper.data-v-44ac5317 {
+  padding-top: 30px;
+  height: auto;
+}
+.mini-play-wrapper .info .not-data-wrapper image.data-v-44ac5317 {
+  margin: 0 auto;
+  display: block;
+  width: 200px;
+  height: 116px;
+}
+.mini-play-wrapper .info .not-data-wrapper .title.data-v-44ac5317 {
+  padding-top: 10px;
+  font-size: 13px;
+  line-height: 20px;
+  text-align: center;
+  color: #b9b9b9;
+}
+

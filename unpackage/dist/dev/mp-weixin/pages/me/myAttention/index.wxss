@@ -1,0 +1,90 @@
+.info-wrapper.data-v-1f203b2b {
+  width: 100%;
+  height: 100%;
+}
+.info-wrapper ._ul.data-v-1f203b2b {
+  padding: 25px 15px 15px;
+  width: 100%;
+  height: auto;
+  box-sizing: border-box;
+}
+.info-wrapper ._ul ._li.data-v-1f203b2b {
+  margin-bottom: 22px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+}
+.info-wrapper ._ul ._li .avatar.data-v-1f203b2b {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+}
+.info-wrapper ._ul ._li .avatar ._img.data-v-1f203b2b {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.info-wrapper ._ul ._li .content-box.data-v-1f203b2b {
+  position: relative;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  height: 42px;
+  padding-left: 15px;
+}
+.info-wrapper ._ul ._li .content-box ._h2.data-v-1f203b2b {
+  margin-bottom: 10px;
+  font-size: 15px;
+  color: #333;
+}
+.info-wrapper ._ul ._li .content-box .bottom.data-v-1f203b2b {
+  position: absolute;
+  bottom: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.info-wrapper ._ul ._li .content-box .bottom .item.data-v-1f203b2b {
+  padding-right: 12px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.info-wrapper ._ul ._li .content-box .bottom .item ._i.data-v-1f203b2b {
+  width: 14px;
+  height: 14px;
+}
+.info-wrapper ._ul ._li .content-box .bottom .item ._i ._img.data-v-1f203b2b {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.info-wrapper ._ul ._li .content-box .bottom .item .num.data-v-1f203b2b {
+  padding-left: 4px;
+  font-size: 12px;
+  color: #666;
+}
+.info-wrapper ._ul ._li .btn-box.data-v-1f203b2b {
+  width: auto;
+  height: 27px;
+  padding: 0 15px;
+  line-height: 27px;
+  font-size: 15px;
+  text-align: center;
+  border-radius: 20px;
+  color: #fff;
+  background: #dcdcdc;
+}
+

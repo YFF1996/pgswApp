@@ -1,0 +1,42 @@
+.secondary-navigation-wrapper.data-v-8e596fa4 {
+  width: 100%;
+  height: 52px;
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+.secondary-navigation-wrapper .scroll-view.data-v-8e596fa4 {
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  white-space: nowrap;
+}
+.secondary-navigation-wrapper .scroll-view .item.data-v-8e596fa4 {
+  position: relative;
+  padding: 0 15px;
+  line-height: 52px;
+  display: inline-block;
+}
+.secondary-navigation-wrapper .scroll-view .item.item.data-v-8e596fa4:first-child {
+  padding-left: 0;
+}
+.secondary-navigation-wrapper .scroll-view .item.item.data-v-8e596fa4:last-child {
+  padding-right: 0;
+}
+.secondary-navigation-wrapper .scroll-view .item .name.data-v-8e596fa4 {
+  position: relative;
+  font-size: 14px;
+  color: #666;
+}
+.secondary-navigation-wrapper .scroll-view .item.item-active .name.data-v-8e596fa4 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #ff6464;
+}
+.secondary-navigation-wrapper.data-v-8e596fa4 ::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+}
+

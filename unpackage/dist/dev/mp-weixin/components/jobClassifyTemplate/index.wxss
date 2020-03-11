@@ -1,0 +1,95 @@
+.job-wrapper.data-v-75bdf8b2 {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 50px;
+  width: 100%;
+  height: 100%;
+  padding-top: 54px;
+  background-color: #f8f8f8;
+  box-sizing: border-box;
+}
+.job-wrapper .white-fixed.data-v-75bdf8b2 {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 59px;
+  background-color: #fff;
+  z-index: -1;
+}
+.job-wrapper .scroll-view.data-v-75bdf8b2 {
+  width: 100%;
+  height: 100%;
+}
+.job-wrapper .scroll-view .white-bg.data-v-75bdf8b2 {
+  width: 100%;
+  height: auto;
+  background-color: #fff;
+}
+.job-wrapper .scroll-view .white-bg .seek-wrapper.data-v-75bdf8b2 {
+  width: 100%;
+  height: auto;
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+.job-wrapper .scroll-view .white-bg .seek-wrapper .input-bar.data-v-75bdf8b2 {
+  width: 100%;
+  height: 100%;
+  line-height: 34px;
+  border-radius: 17px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: top;
+  -webkit-align-items: top;
+          align-items: top;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  background-color: #f6f6f6;
+}
+.job-wrapper .scroll-view .white-bg .seek-wrapper .input-bar .search.data-v-75bdf8b2 {
+  margin-top: 2px;
+  width: 13px;
+  height: 14px;
+}
+.job-wrapper .scroll-view .white-bg .seek-wrapper .input-bar .search image.data-v-75bdf8b2 {
+  width: 100%;
+  height: 100%;
+}
+.job-wrapper .scroll-view .white-bg .seek-wrapper .input-bar .text.data-v-75bdf8b2 {
+  padding-left: 10px;
+  text-align: center;
+  font-size: 13px;
+  color: #999;
+}
+.job-wrapper .scroll-view .white-bg .secondary-box.data-v-75bdf8b2 {
+  width: 100%;
+  height: auto;
+  position: relative;
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+.job-wrapper .scroll-view .line-bg.data-v-75bdf8b2 {
+  position: relative;
+  width: 100%;
+  height: 20px;
+  background: #f8f8f8;
+}
+.job-wrapper .scroll-view .line-bg .line.data-v-75bdf8b2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 20px;
+  background: -webkit-linear-gradient(top, #fff, rgba(255,255,255,0));
+  background: linear-gradient(180deg, #fff, rgba(255,255,255,0));
+}
+.job-wrapper.data-v-75bdf8b2 ::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+}
+

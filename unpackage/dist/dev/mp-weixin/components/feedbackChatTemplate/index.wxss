@@ -1,0 +1,65 @@
+.chat-wrapper.data-v-07ee417e {
+  width: 100%;
+  height: auto;
+  font-size: 14px;
+  color: #000;
+}
+.chat-wrapper .title.data-v-07ee417e {
+  margin: 15px 0 25px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.chat-wrapper .title .ico.data-v-07ee417e {
+  width: 4px;
+  height: 15px;
+  background: #ff6464;
+}
+.chat-wrapper .title .text.data-v-07ee417e {
+  padding-left: 10px;
+}
+.chat-wrapper .chat-list ._li.data-v-07ee417e {
+  margin-bottom: 15px;
+  font-size: 14px;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.chat-wrapper .chat-list ._li .avatar.data-v-07ee417e {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  float: left;
+}
+.chat-wrapper .chat-list ._li .avatar ._img.data-v-07ee417e {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.chat-wrapper .chat-list ._li .avatar-active.data-v-07ee417e {
+  float: right;
+}
+.chat-wrapper .chat-list ._li .content.data-v-07ee417e {
+  padding-left: 45px;
+  text-align: left;
+}
+.chat-wrapper .chat-list ._li .content .text.data-v-07ee417e {
+  display: inline-block;
+  padding: 10px;
+  box-sizing: border-box;
+  color: #000;
+  background: #fff;
+  border-radius: 12px;
+}
+.chat-wrapper .chat-list ._li .content-active.data-v-07ee417e {
+  padding-right: 45px;
+  text-align: right;
+}
+.chat-wrapper .chat-list ._li .content-active .text.data-v-07ee417e {
+  text-align: left;
+  color: #fff;
+  background: #ff6464;
+}
+

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "学费晒单",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "all-grab-floating-window": "/components/allGrabFloatingWindowTemplate/index",
+    "tuition-draw-popup": "/components/tuitionDrawPopupTemplate/index"
+  }
+}

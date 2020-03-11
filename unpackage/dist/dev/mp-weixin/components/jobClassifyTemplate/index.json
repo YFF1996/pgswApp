@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "banner": "/components/bannerTemplate/index",
+    "secondary-navigation": "/components/secondaryNavigationTemplate/index",
+    "column-news": "/components/columnHotAudioTemplate/index",
+    "classify-content": "/components/secondClassifyContentTemplate/index",
+    "main-recommend": "/components/mainRecommendCourseTemplate/index"
+  }
+}

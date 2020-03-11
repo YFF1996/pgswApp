@@ -1,0 +1,139 @@
+.tuition-list-wrapper.data-v-07f01c40 {
+  width: 100%;
+  height: auto;
+}
+.tuition-list-wrapper .tuition-list-ul.data-v-07f01c40 {
+  padding: 20px 15px 0;
+  width: 100%;
+  height: auto;
+  box-sizing: border-box;
+}
+.tuition-list-wrapper .tuition-list-ul .item.data-v-07f01c40 {
+  margin-bottom: 15px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.tuition-list-wrapper .tuition-list-ul .item .avatar.data-v-07f01c40 {
+  width: 110px;
+  height: 110px;
+  border-radius: 3px;
+}
+.tuition-list-wrapper .tuition-list-ul .item .avatar image.data-v-07f01c40 {
+  width: 100%;
+  height: 100%;
+  border-radius: 3px;
+}
+.tuition-list-wrapper .tuition-list-ul .item .right.data-v-07f01c40 {
+  margin-left: 15px;
+  padding-bottom: 15px;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  border-bottom: 1px solid #f5f5f5;
+}
+.tuition-list-wrapper .tuition-list-ul .item .right .info.data-v-07f01c40 {
+  width: 100%;
+  height: auto;
+}
+.tuition-list-wrapper .tuition-list-ul .item .right .info .title.data-v-07f01c40 {
+  margin-top: -3px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: bold;
+  color: #333;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.tuition-list-wrapper .tuition-list-ul .item .right .info .buyer.data-v-07f01c40 {
+  margin-top: 10px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.tuition-list-wrapper .tuition-list-ul .item .right .info .buyer .icon.data-v-07f01c40 {
+  padding: 1px;
+  width: 26px;
+  height: 26px;
+  box-sizing: border-box;
+  overflow: hidden;
+  background-color: #ff4040;
+  border-radius: 50%;
+}
+.tuition-list-wrapper .tuition-list-ul .item .right .info .buyer .icon image.data-v-07f01c40 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.tuition-list-wrapper .tuition-list-ul .item .right .info .buyer .name.data-v-07f01c40 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  padding-left: 5px;
+  font-size: 12px;
+  color: #999;
+}
+.tuition-list-wrapper .tuition-list-ul .item .right .info .get-fee.data-v-07f01c40 {
+  margin-top: 8px;
+  font-size: 12px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  color: #666;
+}
+.tuition-list-wrapper .tuition-list-ul .item .right .info .get-fee .text.data-v-07f01c40 {
+  padding: 0 2px;
+  font-size: 13px;
+  color: #ff4040;
+  box-sizing: border-box;
+}
+.tuition-list-wrapper .tuition-list-ul .item .right .info .bottom.data-v-07f01c40 {
+  width: 100%;
+  height: auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.tuition-list-wrapper .tuition-list-ul .item .right .info .bottom .hint.data-v-07f01c40 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  margin-top: 11px;
+  font-size: 12px;
+  color: #999;
+}
+.tuition-list-wrapper .tuition-list-ul .item .right .info .bottom .btn-box.data-v-07f01c40 {
+  width: 60px;
+  height: 26px;
+  line-height: 26px;
+  font-size: 12px;
+  text-align: center;
+  font-weight: bold;
+  color: #fff;
+  background-color: #ff4040;
+  box-shadow: 0 1px 4px 0 rgba(255,64,64,0.3);
+  border-radius: 25px;
+}
+.tuition-list-wrapper .tuition-list-ul .item .right .info .bottom .btn-box.end-btn.data-v-07f01c40 {
+  background-color: #cacaca;
+  box-shadow: 0 1px 4px 0 rgba(102,102,102,0.3);
+}
+.tuition-list-wrapper .tuition-list-ul .item:last-child .right.data-v-07f01c40 {
+  border: none;
+}
+.tuition-list-wrapper .tuition-list-ul .item.data-v-07f01c40:last-child {
+  margin-bottom: 0;
+}
+

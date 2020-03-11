@@ -1,0 +1,79 @@
+.my-course-wrapper.data-v-0e654644 {
+  width: 100%;
+  height: auto;
+}
+.my-course-wrapper .fixed-top.data-v-0e654644 {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+  background-color: #fff;
+  z-index: 99;
+}
+.my-course-wrapper .fixed-top .seek-wrapper.data-v-0e654644 {
+  width: 100%;
+  height: auto;
+  padding: 15px 20px;
+  box-sizing: border-box;
+}
+.my-course-wrapper .fixed-top .seek-wrapper .seek-content.data-v-0e654644 {
+  width: 100%;
+  height: 100%;
+  border-radius: 6px;
+}
+.my-course-wrapper .fixed-top .seek-wrapper .seek-content .input-bar.data-v-0e654644 {
+  padding-left: 15px;
+  width: 100%;
+  height: 34px;
+  line-height: 34px;
+  border-radius: 17px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  box-sizing: border-box;
+  background-color: #f6f6f6;
+}
+.my-course-wrapper .fixed-top .seek-wrapper .seek-content .input-bar .search.data-v-0e654644 {
+  margin-top: 2px;
+  width: 13px;
+  height: 14px;
+}
+.my-course-wrapper .fixed-top .seek-wrapper .seek-content .input-bar .search ._img.data-v-0e654644 {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.my-course-wrapper .fixed-top .seek-wrapper .seek-content .input-bar input.data-v-0e654644 {
+  padding: 0 10px;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  height: 100%;
+  font-size: 14px;
+  color: #333;
+  z-index: 20;
+  box-sizing: border-box;
+}
+.my-course-wrapper .fixed-top .seek-wrapper .seek-content .input-bar .closed-btn.data-v-0e654644 {
+  width: 37px;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  z-index: 30;
+}
+.my-course-wrapper .fixed-top .seek-wrapper .seek-content .input-bar .closed-btn ._img.data-v-0e654644 {
+  width: 18px;
+  height: 18px;
+}
+

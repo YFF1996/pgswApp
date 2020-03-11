@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "视频详情",
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "weixin-parse": "/node-modules/mpvue-wxparse/src/wxParse",
+    "comment-list": "/components/commentListTemplate/index"
+  }
+}

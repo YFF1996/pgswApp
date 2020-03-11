@@ -1,0 +1,284 @@
+.tuition-second-list-wrapper.data-v-469b35b4 {
+  width: 100%;
+  height: auto;
+  padding: 20px 15px 40px;
+  box-sizing: border-box;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul.data-v-469b35b4 {
+  width: 100%;
+  height: auto;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item.data-v-469b35b4 {
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  border-bottom: 1px solid #f5f5f5;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .avatar.data-v-469b35b4 {
+  position: relative;
+  width: 110px;
+  height: 110px;
+  border-radius: 3px;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .avatar image.data-v-469b35b4 {
+  width: 100%;
+  height: 100%;
+  border-radius: 3px;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .avatar .mark.data-v-469b35b4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 23px;
+  line-height: 23px;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .avatar .mark image.data-v-469b35b4 {
+  width: 100%;
+  height: 100%;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .avatar .mark .text.data-v-469b35b4 {
+  position: absolute;
+  top: 0;
+  left: 5px;
+  font-size: 10px;
+  color: #fff;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .avatar .video-play-num.data-v-469b35b4 {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  padding: 13px 5px 2px;
+  border-radius: 0 0 6px 6px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  background: -webkit-linear-gradient(top, rgba(255,255,255,0) 10%, rgba(0,0,0,0.5) 80%);
+  box-sizing: border-box;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .avatar .video-play-num .icon.data-v-469b35b4 {
+  padding: 1px;
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+  overflow: hidden;
+  background-color: #e1564f;
+  border-radius: 50%;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .avatar .video-play-num .icon image.data-v-469b35b4 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .avatar .video-play-num .name.data-v-469b35b4 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  padding-left: 5px;
+  text-align: left;
+  font-size: 10px;
+  color: #fff;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info.data-v-469b35b4 {
+  position: relative;
+  margin-left: 15px;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .title.data-v-469b35b4 {
+  margin-bottom: 6px;
+  width: 100%;
+  min-height: 9px;
+  margin-top: -3px;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: bold;
+  color: #333;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .process-box.data-v-469b35b4 {
+  margin: 4px 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  font-size: 11px;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .process-box .text.data-v-469b35b4 {
+  padding-right: 8px;
+  color: #999;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .process-box .process-line.data-v-469b35b4 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  width: 100%;
+  height: 4px;
+  background-color: #fff2e8;
+  border-radius: 20px;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .process-box .process-line .active-line.data-v-469b35b4 {
+  position: relative;
+  width: 0;
+  height: 4px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  background: -webkit-linear-gradient(183deg, #ff9626, #ffba36);
+  background: linear-gradient(267deg, #ff9626, #ffba36);
+  border-radius: 20px;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .process-box .process-line .active-line .icon.data-v-469b35b4 {
+  position: absolute;
+  right: -8px;
+  width: 10px;
+  height: 10px;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .process-box .process-line .active-line .icon image.data-v-469b35b4 {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .process-box .num.data-v-469b35b4 {
+  padding-left: 8px;
+  font-size: 12px;
+  color: #333;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .time-box.data-v-469b35b4 {
+  margin-bottom: 6px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .time-box .hint-text.data-v-469b35b4 {
+  padding-right: 6px;
+  font-size: 11px;
+  color: #333;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .time-box .time-box-ul.data-v-469b35b4 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  margin-top: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .time-box .time-box-ul .item.data-v-469b35b4 {
+  display: block;
+  margin-bottom: 0;
+  height: 16px;
+  line-height: 16px;
+  font-size: 10px;
+  text-align: center;
+  font-weight: bold;
+  box-sizing: border-box;
+  border: none;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .time-box .time-box-ul .item .text.data-v-469b35b4 {
+  display: block;
+  width: 16px;
+  height: auto;
+  color: #fff;
+  background-color: #575757;
+  border-radius: 2px;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .time-box .time-box-ul .item.line.data-v-469b35b4 {
+  padding: 0 5px;
+  color: #575757;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .bottom.data-v-469b35b4 {
+  position: absolute;
+  bottom: -2px;
+  width: 100%;
+  height: auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .bottom .invite-box.data-v-469b35b4 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .bottom .invite-box .invite-price.data-v-469b35b4 {
+  margin-bottom: 2px;
+  font-size: 11px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  color: #999;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .bottom .invite-box .invite-price .text.data-v-469b35b4 {
+  padding-right: 5px;
+  color: #ff4040;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .bottom .invite-box .invite-price .text.price.data-v-469b35b4 {
+  font-size: 12px;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .bottom .invite-box .invite-num.data-v-469b35b4 {
+  font-size: 11px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  color: #999;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .bottom .invite-box .invite-num .text.data-v-469b35b4 {
+  padding: 0 3px;
+  color: #333;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .bottom .invite-box .invite-num .text.line.data-v-469b35b4 {
+  padding: 0 5px;
+  color: #999;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item .info .bottom .btn-box.data-v-469b35b4 {
+  width: 60px;
+  height: 26px;
+  line-height: 26px;
+  font-size: 12px;
+  text-align: center;
+  font-weight: bold;
+  color: #fff;
+  background-color: #ff4040;
+  box-shadow: 0 1px 4px 0 rgba(255,64,64,0.3);
+  border-radius: 25px;
+}
+.tuition-second-list-wrapper .tuition-second-list-ul .item.data-v-469b35b4:last-child {
+  margin-bottom: 0;
+  border-bottom: none;
+}
+

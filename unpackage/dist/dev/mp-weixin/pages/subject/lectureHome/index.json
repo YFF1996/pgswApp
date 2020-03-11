@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "讲师主页",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "special-list": "/components/specialListTemplate/index",
+    "video-list": "/components/videoListTemplate/index",
+    "loading-more": "/components/loadingMoreTemplate/index",
+    "parse": "/components/jyf-parser/jyf-parser"
+  }
+}

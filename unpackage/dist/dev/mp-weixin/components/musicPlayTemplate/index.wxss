@@ -1,0 +1,355 @@
+.music-play-wrapper.data-v-6fbb737f {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.music-play-wrapper .loading-wrapper.data-v-6fbb737f {
+  width: 100%;
+  height: 100%;
+}
+.music-play-wrapper .swiper-wrapper.data-v-6fbb737f {
+  width: 100%;
+  height: 100%;
+}
+.music-play-wrapper .swiper-wrapper swiper-item.data-v-6fbb737f {
+  width: 100%;
+  height: 100%;
+  padding-top: 80px;
+  box-sizing: border-box;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .bg-img.data-v-6fbb737f {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  opacity: 1;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .bg-img .shade.data-v-6fbb737f,
+.music-play-wrapper .swiper-wrapper swiper-item .bg-img image.data-v-6fbb737f {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -2;
+  background-color: rgba(0,0,0,0.6);
+}
+.music-play-wrapper .swiper-wrapper swiper-item .bg-img image.data-v-6fbb737f {
+  -webkit-filter: blur(10px);
+          filter: blur(10px);
+  z-index: -3;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .play-box.data-v-6fbb737f {
+  width: 300px;
+  height: 300px;
+  padding: 10px;
+  margin: 0 auto;
+  border-radius: 50%;
+  box-sizing: border-box;
+  background-color: #d9dee1;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .play-box .play-content.data-v-6fbb737f {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .play-box .play-content .video-img.data-v-6fbb737f {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .play-box .play-content .video-img image.data-v-6fbb737f {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .play-box .play-content .video-img.play.data-v-6fbb737f {
+  -webkit-animation: rotate-data-v-6fbb737f 20s linear infinite;
+          animation: rotate-data-v-6fbb737f 20s linear infinite;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .play-box .play-content .video-img.pause.data-v-6fbb737f {
+  -webkit-animation-play-state: paused;
+          animation-play-state: paused;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .play-box .play-content .icon.data-v-6fbb737f {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 50px;
+  height: 50px;
+  margin-left: -25px;
+  margin-top: -25px;
+  z-index: 10;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .play-box .play-content .icon image.data-v-6fbb737f {
+  width: 100%;
+  height: 100%;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .teacher-avatar.data-v-6fbb737f {
+  position: absolute;
+  right: 18px;
+  bottom: 240px;
+  width: 36px;
+  height: 36px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  background-color: #fff;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .teacher-avatar image.data-v-6fbb737f {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .teacher-avatar .icon.data-v-6fbb737f {
+  position: absolute;
+  bottom: -11px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .teacher-avatar .icon image.data-v-6fbb737f {
+  display: block;
+  width: 11px;
+  height: 11px;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .shop-box.data-v-6fbb737f {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-bottom: 10px;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .shop-box .shop-info .float-box.data-v-6fbb737f {
+  min-width: 182px;
+  position: relative;
+  padding: 7px 20px 7px 7px;
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  background-color: rgba(0,0,0,0.4);
+  border-radius: 3px;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .shop-box .shop-info .float-box .icon.data-v-6fbb737f {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 5px;
+  width: 10px;
+  height: 10px;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .shop-box .shop-info .float-box .icon image.data-v-6fbb737f {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .shop-box .shop-info .float-box .cover.data-v-6fbb737f {
+  width: 32px;
+  height: 32px;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .shop-box .shop-info .float-box .cover image.data-v-6fbb737f {
+  width: 100%;
+  height: 100%;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .shop-box .shop-info .float-box .info.data-v-6fbb737f {
+  position: relative;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  margin: -2px 0 0 6px;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .shop-box .shop-info .float-box .info .name.data-v-6fbb737f {
+  height: 15px;
+  line-height: 15px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+  font-size: 12px;
+  color: #fff;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .shop-box .shop-info .float-box .info .bottom.data-v-6fbb737f {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .shop-box .shop-info .float-box .info .bottom .money.data-v-6fbb737f {
+  padding-right: 23px;
+  font-size: 12px;
+  color: #ffdb31;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .shop-box .shop-info .float-box .triangle.data-v-6fbb737f {
+  position: absolute;
+  bottom: 0;
+  left: 13px;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .shop-box .shop-info .float-box .triangle .triangle-absolute.data-v-6fbb737f {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 0;
+  height: 0;
+  border-width: 5px 5px 0;
+  border-style: solid;
+  border-color: rgba(0,0,0,0.4) transparent transparent;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .shop-box .shop-info .shop-cnt.data-v-6fbb737f {
+  margin-top: 10px;
+  display: inline-block;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .shop-box .shop-info .shop-cnt .shop-title.data-v-6fbb737f {
+  width: 100%;
+  height: auto;
+  padding: 0 10px 0 12px;
+  border-radius: 20px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  background: rgba(255,255,255,0.15);
+  box-sizing: border-box;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .shop-box .shop-info .shop-cnt .shop-title .shop-icon.data-v-6fbb737f {
+  width: 12px;
+  height: 12px;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .shop-box .shop-info .shop-cnt .shop-title .shop-icon image.data-v-6fbb737f {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .shop-box .shop-info .shop-cnt .shop-title .name.data-v-6fbb737f {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  height: 25px;
+  padding: 0 4px 0 6px;
+  line-height: 25px;
+  font-size: 12px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+  color: #fff;
+  box-sizing: border-box;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .shop-box .shop-info .shop-cnt .shop-title .icon.data-v-6fbb737f {
+  width: 9px;
+  height: 9px;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .shop-box .shop-info .shop-cnt .shop-title .icon image.data-v-6fbb737f {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .text-wrapper.data-v-6fbb737f {
+  position: absolute;
+  left: 15px;
+  right: 100px;
+  bottom: 50px;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .text-wrapper .title.data-v-6fbb737f {
+  width: 100%;
+  height: auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .text-wrapper .title .title-text.data-v-6fbb737f {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  padding-left: 5px;
+  font-size: 14px;
+  color: #fff;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .text-wrapper .special-wrapper.data-v-6fbb737f {
+  display: inline-block;
+  height: 20px;
+  padding-left: 5px;
+  margin-top: 13px;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .text-wrapper .special-wrapper .special-content.data-v-6fbb737f {
+  width: auto;
+  height: 100%;
+  padding: 0 10px;
+  border-radius: 10px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  background-color: rgba(255,255,255,0.5);
+}
+.music-play-wrapper .swiper-wrapper swiper-item .text-wrapper .special-wrapper .special-content image.data-v-6fbb737f {
+  display: block;
+  width: 12px;
+  height: 12px;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .text-wrapper .special-wrapper .special-content .title.data-v-6fbb737f {
+  padding-left: 5px;
+  letter-spacing: 2px;
+  font-size: 11px;
+  color: #fff;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .text-wrapper .text-btn.data-v-6fbb737f {
+  margin-top: 15px;
+  width: 100%;
+  height: auto;
+  padding-left: 15px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  box-sizing: border-box;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .text-wrapper .text-btn .title.data-v-6fbb737f {
+  width: auto;
+  padding-right: 5px;
+  line-height: 20px;
+  font-size: 16px;
+  color: #fff;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .text-wrapper .text-btn .icon.data-v-6fbb737f {
+  width: 16px;
+  height: 16px;
+}
+.music-play-wrapper .swiper-wrapper swiper-item .text-wrapper .text-btn .icon image.data-v-6fbb737f {
+  width: 100%;
+  height: 100%;
+}
+@-webkit-keyframes rotate-data-v-6fbb737f {
+0% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+}
+100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+}
+}
+

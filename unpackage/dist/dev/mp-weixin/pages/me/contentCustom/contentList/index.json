@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "关键词列表",
+  "usingComponents": {
+    "loading-more": "/components/loadingMoreTemplate/index"
+  }
+}

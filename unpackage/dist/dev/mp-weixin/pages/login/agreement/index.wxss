@@ -1,0 +1,18 @@
+.agreement-wrapper.data-v-36ca7eac {
+  padding: 0 30px 30px;
+  width: 100%;
+  height: auto;
+  font-size: 14px;
+  line-height: 22px;
+  color: #161618;
+  box-sizing: border-box;
+}
+.agreement-wrapper .title.data-v-36ca7eac {
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: 600;
+}
+.agreement-wrapper .text.data-v-36ca7eac {
+  margin-top: 12px;
+}
+

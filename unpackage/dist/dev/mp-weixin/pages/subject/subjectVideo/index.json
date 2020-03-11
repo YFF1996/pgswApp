@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "专题详情",
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "advertising": "/components/advertisingTemplate/index",
+    "video-course-list": "/components/videoCourseListTemplate/index",
+    "video-set-list": "/components/videoSetListTemplate/index",
+    "comment-list": "/components/commentListTemplate/index",
+    "subject-state-bar": "/components/subjectStateBarTemplate/index",
+    "weixin-parse": "/node-modules/mpvue-wxparse/src/wxParse"
+  }
+}

@@ -1,0 +1,83 @@
+.similar-course-wrapper.data-v-0e46526a {
+  width: 100%;
+  height: auto;
+}
+.similar-course-wrapper .similar-course-ul.data-v-0e46526a {
+  width: 100%;
+  height: auto;
+  padding: 20px 0 0 15px;
+  box-sizing: border-box;
+}
+.similar-course-wrapper .similar-course-ul .item.data-v-0e46526a {
+  width: 100%;
+  height: auto;
+  padding-bottom: 18px;
+  margin-bottom: 18px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  border-bottom: 1px solid #f5f5f5;
+}
+.similar-course-wrapper .similar-course-ul .item .url-pic.data-v-0e46526a {
+  width: 80px;
+  height: 80px;
+  margin-right: 10px;
+  border-radius: 5px;
+  overflow: hidden;
+  background-color: #efefef;
+}
+.similar-course-wrapper .similar-course-ul .item .url-pic image.data-v-0e46526a {
+  width: 100%;
+  height: 100%;
+}
+.similar-course-wrapper .similar-course-ul .item .text-content.data-v-0e46526a {
+  position: relative;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  height: auto;
+  padding: 0 15px 15px 0;
+}
+.similar-course-wrapper .similar-course-ul .item .text-content .title.data-v-0e46526a {
+  margin-top: -2px;
+  width: 100%;
+  min-height: 20px;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 20px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  color: #000;
+}
+.similar-course-wrapper .similar-course-ul .item .text-content .play-num.data-v-0e46526a {
+  position: absolute;
+  bottom: 0;
+  padding-top: 10px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.similar-course-wrapper .similar-course-ul .item .text-content .play-num image.data-v-0e46526a {
+  display: block;
+  width: 12px;
+  height: 12px;
+}
+.similar-course-wrapper .similar-course-ul .item .text-content .play-num .num.data-v-0e46526a {
+  padding: 0 25px 0 8px;
+  font-size: 12px;
+  line-height: 12px;
+  color: #b2b2b2;
+}
+.similar-course-wrapper .similar-course-ul .item .text-content .play-num .num-end.data-v-0e46526a {
+  padding: 0;
+}
+.similar-course-wrapper .similar-course-ul .item.data-v-0e46526a:last-child {
+  margin-bottom: 0;
+  border-bottom: none;
+}
+

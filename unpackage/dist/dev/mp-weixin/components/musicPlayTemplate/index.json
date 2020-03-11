@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "music-operating": "/components/musicOperatingTemplate/index",
+    "music-schedule": "/components/musicScheduleTemplate/index",
+    "index-comment": "/components/indexCommentTemplate/index"
+  }
+}

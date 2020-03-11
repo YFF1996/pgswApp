@@ -1,0 +1,88 @@
+.list-wrapper.data-v-9421ed8c {
+  width: 100%;
+  height: auto;
+}
+.list-wrapper .scroll-view.data-v-9421ed8c {
+  padding: 15px 0 30px;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  white-space: nowrap;
+  border-bottom: 5px solid #f6f6f6;
+}
+.list-wrapper .scroll-view .item.data-v-9421ed8c {
+  display: inline-block;
+  padding: 15px 8px 0;
+  box-sizing: border-box;
+}
+.list-wrapper .scroll-view .item .item-list.data-v-9421ed8c {
+  position: relative;
+  width: 125px;
+  height: 90px;
+  padding: 10px;
+  border-radius: 4px;
+  background: #f2f2f2;
+  box-sizing: border-box;
+  border: 1px solid transparent;
+}
+.list-wrapper .scroll-view .item .item-list .label.data-v-9421ed8c {
+  position: absolute;
+  right: 0;
+  top: -10px;
+  width: 28px;
+  height: 16px;
+  line-height: 16px;
+  font-size: 10px;
+  text-align: center;
+  color: #fff;
+  background: #ff6464;
+  border-radius: 3px 3px 3px 0px;
+}
+.list-wrapper .scroll-view .item .item-list .title.data-v-9421ed8c {
+  padding-right: 5px;
+  height: 37px;
+  line-height: 20px;
+  font-size: 14px;
+  color: #33344c;
+  white-space: normal;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+.list-wrapper .scroll-view .item .item-list .bottom.data-v-9421ed8c {
+  margin-top: 19px;
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 12px;
+  color: #9798a6;
+}
+.list-wrapper .scroll-view .item .item-list .act-record-text.data-v-9421ed8c {
+  color: #fff;
+}
+.list-wrapper .scroll-view .item .item-list .hide.data-v-9421ed8c {
+  display: none;
+}
+.list-wrapper .scroll-view .item .item-list .duration-text.data-v-9421ed8c {
+  color: #9798a6;
+}
+.list-wrapper .scroll-view .item .item-list-active.data-v-9421ed8c {
+  background: #e1e1e1;
+}
+.list-wrapper .scroll-view .item .item-active.data-v-9421ed8c {
+  border: 1px solid #ffd5d5;
+}
+.list-wrapper.data-v-9421ed8c ::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  color: transparent;
+}
+

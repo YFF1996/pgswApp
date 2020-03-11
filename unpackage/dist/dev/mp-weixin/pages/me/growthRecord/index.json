@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "成长记录",
+  "usingComponents": {
+    "parse": "/components/jyf-parser/jyf-parser",
+    "loading-more": "/components/loadingMoreTemplate/index"
+  }
+}

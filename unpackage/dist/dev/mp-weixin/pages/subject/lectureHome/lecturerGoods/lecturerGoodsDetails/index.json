@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "橱窗详情",
+  "usingComponents": {
+    "parse": "/components/jyf-parser/jyf-parser"
+  }
+}

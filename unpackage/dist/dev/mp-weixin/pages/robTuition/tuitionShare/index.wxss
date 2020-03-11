@@ -1,0 +1,342 @@
+.tuition-share-wrapper.data-v-4e0344be {
+  width: 100%;
+  height: auto;
+  background-color: #ff6326;
+}
+.tuition-share-wrapper .banner.data-v-4e0344be {
+  position: relative;
+  width: 100%;
+  height: 306px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  z-index: 20;
+}
+.tuition-share-wrapper .banner ._img.data-v-4e0344be {
+  width: 100%;
+  height: 100%;
+}
+.tuition-share-wrapper .banner .btn.data-v-4e0344be {
+  position: absolute;
+  top: 90px;
+  width: 280px;
+  height: 33px;
+  line-height: 33px;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+  color: #f32121;
+  background: -webkit-linear-gradient(bottom, #fea405, #ffdb47);
+  background: linear-gradient(0deg, #fea405, #ffdb47);
+  border-radius: 20px;
+}
+.tuition-share-wrapper .share-content.data-v-4e0344be {
+  margin-top: -19px;
+  padding: 0 15px 10px;
+  width: 100%;
+  height: auto;
+  box-sizing: border-box;
+}
+.tuition-share-wrapper .share-content .title-box.data-v-4e0344be {
+  margin: 0 auto;
+  margin-bottom: 22px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.tuition-share-wrapper .share-content .title-box ._i.data-v-4e0344be {
+  width: 25px;
+  height: 25px;
+}
+.tuition-share-wrapper .share-content .title-box ._i ._img.data-v-4e0344be {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.tuition-share-wrapper .share-content .title-box ._i.left-icon.data-v-4e0344be {
+  -webkit-transform: rotate(-180deg);
+          transform: rotate(-180deg);
+}
+.tuition-share-wrapper .share-content .title-box ._h2.data-v-4e0344be {
+  padding: 0 7px;
+  font-size: 14px;
+  color: #ff4040;
+}
+.tuition-share-wrapper .share-content .title-box ._h2.record-title.data-v-4e0344be {
+  padding: 0 10px;
+  font-size: 15px;
+}
+.tuition-share-wrapper .share-content .info-bg.data-v-4e0344be {
+  margin-bottom: 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  background-color: rgba(255,255,255,0.2);
+}
+.tuition-share-wrapper .share-content .info-bg .info-box.data-v-4e0344be {
+  padding: 20px 11px;
+  width: 100%;
+  height: auto;
+  box-sizing: border-box;
+  border-radius: 5px;
+  background-color: #fff;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .no-data-wrapper.data-v-4e0344be {
+  width: 100%;
+  height: auto;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .no-data-wrapper ._img.data-v-4e0344be {
+  margin: 0 auto;
+  display: block;
+  width: 80px;
+  height: 80px;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .no-data-wrapper .title.data-v-4e0344be {
+  padding-top: 5px;
+  font-size: 13px;
+  line-height: 20px;
+  text-align: center;
+  color: #b9b9b9;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .time-box.data-v-4e0344be {
+  margin-bottom: 34px;
+  width: 100%;
+  height: auto;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .time-box ._ul.data-v-4e0344be {
+  width: 100%;
+  height: auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .time-box ._ul ._li.data-v-4e0344be {
+  margin: 0 4px;
+  height: 24px;
+  line-height: 24px;
+  font-size: 11px;
+  text-align: center;
+  color: #333;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .time-box ._ul ._li.time.data-v-4e0344be {
+  width: 22px;
+  height: 22px;
+  line-height: 22px;
+  font-size: 13px;
+  font-weight: bold;
+  color: #ff3838;
+  border-radius: 2px;
+  border: 2px solid #ff4040;
+  background-color: #fee;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .time-box ._ul ._li.second.data-v-4e0344be {
+  color: #ff7826;
+  border: 1px solid #ff9e40;
+  background-color: #fff4ea;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .time-box .hint.data-v-4e0344be {
+  margin-top: 10px;
+  font-size: 13px;
+  text-align: center;
+  color: #999;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .process-box.data-v-4e0344be {
+  margin-bottom: 24px;
+  width: 100%;
+  height: auto;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .process-box .process-info.data-v-4e0344be {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  font-size: 13px;
+  color: #999;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .process-box .process-info .text.data-v-4e0344be {
+  padding-right: 8px;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .process-box .process-info .process-line.data-v-4e0344be {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  width: 100%;
+  height: 8px;
+  background-color: #fff2e8;
+  border-radius: 20px;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .process-box .process-info .process-line .active-line.data-v-4e0344be {
+  position: relative;
+  width: 0;
+  height: 8px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  background: -webkit-linear-gradient(183deg, #ff9626, #ffba36);
+  background: linear-gradient(267deg, #ff9626, #ffba36);
+  border-radius: 20px;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .process-box .process-info .process-line .active-line ._i.data-v-4e0344be {
+  position: absolute;
+  right: -9px;
+  width: 15px;
+  height: 15px;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .process-box .process-info .process-line .active-line ._i ._img.data-v-4e0344be {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .process-box .process-info .num.data-v-4e0344be {
+  padding-left: 8px;
+  color: #333;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .invite-box.data-v-4e0344be {
+  width: 100%;
+  height: auto;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .invite-box ._ul.data-v-4e0344be {
+  width: 100%;
+  height: auto;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .invite-box ._ul ._li.data-v-4e0344be {
+  margin-bottom: 14px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .invite-box ._ul ._li .avatar.data-v-4e0344be {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .invite-box ._ul ._li .avatar ._img.data-v-4e0344be {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .invite-box ._ul ._li ._h3.data-v-4e0344be {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  position: relative;
+  padding: 0 10px;
+  box-sizing: border-box;
+  font-size: 14px;
+  color: #333;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .invite-box ._ul ._li ._h3 ._span.data-v-4e0344be {
+  position: absolute;
+  top: -4px;
+  padding-left: 7px;
+  font-size: 11px;
+  font-weight: bold;
+  color: #ff7633;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .invite-box ._ul ._li .time.data-v-4e0344be {
+  font-size: 12px;
+  color: #999;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .bottom-info.data-v-4e0344be {
+  margin-top: 28px;
+  width: 100%;
+  height: auto;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .bottom-info .btn-box.data-v-4e0344be {
+  width: 100%;
+  height: auto;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .bottom-info .btn-box .btn.data-v-4e0344be {
+  position: relative;
+  width: 100%;
+  height: 44px;
+  line-height: 44px;
+  font-size: 15px;
+  text-align: center;
+  color: #fff;
+  background-color: #ff4040;
+  border-radius: 4px;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .bottom-info .btn-box .btn button.data-v-4e0344be {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .bottom-info .btn-box .btn-gray.data-v-4e0344be {
+  background-color: #999;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .bottom-info .btn-box .hint.data-v-4e0344be {
+  margin-top: 10px;
+  font-size: 11px;
+  text-align: center;
+  color: #666;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .bottom-info .rule-box.data-v-4e0344be {
+  padding-top: 20px;
+  font-size: 13px;
+  text-align: center;
+  font-weight: bold;
+  color: #000;
+  border-top: 1px solid #f5f5f5;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .bottom-info .rule-box .text.data-v-4e0344be {
+  margin: 10px 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  color: #999;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .bottom-info .rule-box .text ._i.data-v-4e0344be {
+  width: 15px;
+  height: 15px;
+  line-height: 15px;
+  text-align: center;
+  color: #ff4040;
+  border: 1px solid #ff4040;
+  border-radius: 50%;
+}
+.tuition-share-wrapper .share-content .info-bg .info-box .bottom-info .rule-box .text ._span.data-v-4e0344be {
+  padding-left: 9px;
+  width: 120px;
+  text-align: left;
+}
+

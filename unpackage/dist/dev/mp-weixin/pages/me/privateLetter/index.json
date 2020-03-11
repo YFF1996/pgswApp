@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "私信",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "loading-more": "/components/loadingMoreTemplate/index"
+  }
+}

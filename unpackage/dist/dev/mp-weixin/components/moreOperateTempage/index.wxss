@@ -1,0 +1,50 @@
+.more-operate-wrapper.data-v-213ea5e6 {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: auto;
+  border-radius: 12px 12px 0 0;
+  z-index: 1100;
+  background-color: #fff;
+}
+.more-operate-wrapper ._ul.data-v-213ea5e6 {
+  width: 100%;
+  height: auto;
+  padding: 20px 0;
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  border-radius: 12px 12px 0 0;
+}
+.more-operate-wrapper ._ul ._li .icon.data-v-213ea5e6 {
+  margin: 0 auto;
+  width: 50px;
+  height: 50px;
+}
+.more-operate-wrapper ._ul ._li .icon image.data-v-213ea5e6 {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.more-operate-wrapper ._ul ._li .text.data-v-213ea5e6 {
+  padding-top: 5px;
+  font-size: 12px;
+  text-align: center;
+  color: #9798a6;
+}
+.more-operate-wrapper .cancel-btn.data-v-213ea5e6 {
+  padding: 13px 0;
+  box-sizing: border-box;
+  font-size: 17px;
+  text-align: center;
+  border-top: 1px solid #efefef;
+  color: #343546;
+}
+

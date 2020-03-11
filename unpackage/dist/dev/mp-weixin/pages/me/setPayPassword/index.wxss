@@ -1,0 +1,121 @@
+.set-pay-password.data-v-1d59d4fe {
+  width: 100%;
+  height: auto;
+  padding: 25px 38px 0 38px;
+  box-sizing: border-box;
+}
+.set-pay-password .schedule-wrapper.data-v-1d59d4fe {
+  width: 100%;
+  height: auto;
+}
+.set-pay-password .schedule-wrapper .schedule-box.data-v-1d59d4fe {
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding: 0 65px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  box-sizing: border-box;
+}
+.set-pay-password .schedule-wrapper .schedule-box .dot-box.data-v-1d59d4fe {
+  width: 25px;
+  height: 25px;
+  border: 1px solid #999;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 24px;
+  font-size: 14px;
+  color: #999;
+  background-color: #f7f7f7;
+  box-sizing: border-box;
+}
+.set-pay-password .schedule-wrapper .schedule-box .dot-active.data-v-1d59d4fe {
+  color: #ff4040;
+  border-color: #ff4040;
+}
+.set-pay-password .schedule-wrapper .schedule-box .line.data-v-1d59d4fe {
+  position: absolute;
+  left: 90px;
+  top: 50%;
+  width: 120px;
+  height: 2px;
+  z-index: -1;
+  background-color: #e6e6e6;
+}
+.set-pay-password .schedule-wrapper .schedule-box .active.data-v-1d59d4fe {
+  background-color: #ff4040;
+}
+.set-pay-password .schedule-wrapper .schedule-text.data-v-1d59d4fe {
+  width: 100%;
+  height: auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.set-pay-password .schedule-wrapper .schedule-text ._p.data-v-1d59d4fe {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  line-height: 30px;
+  text-align: center;
+  font-size: 12px;
+  color: #666;
+}
+.set-pay-password .text-wrapper.data-v-1d59d4fe {
+  text-align: center;
+  line-height: 90px;
+  font-size: 12px;
+  color: #333;
+}
+.set-pay-password .input-wrapper.data-v-1d59d4fe {
+  width: 100%;
+  height: auto;
+  padding: 22px 0 40px 0;
+}
+.set-pay-password .input-wrapper .input-box.data-v-1d59d4fe {
+  width: 100%;
+  height: auto;
+  margin-bottom: 22px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  border-bottom: 1px solid #e6e6e6;
+}
+.set-pay-password .input-wrapper .input-box ._h3.data-v-1d59d4fe {
+  font-size: 14px;
+  line-height: 30px;
+  color: #333;
+}
+.set-pay-password .input-wrapper .input-box input.data-v-1d59d4fe {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  height: 30px;
+  padding: 0 25px;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+.set-pay-password .input-wrapper .input-box .get-code.data-v-1d59d4fe,
+.set-pay-password .input-wrapper .input-box .get-code-num.data-v-1d59d4fe {
+  line-height: 30px;
+  font-size: 14px;
+  color: #ff4040;
+}
+.set-pay-password .input-wrapper .input-box.data-v-1d59d4fe:last-child {
+  margin-bottom: 0;
+}
+.set-pay-password .btn-wrapper.data-v-1d59d4fe {
+  width: 100%;
+  height: auto;
+  line-height: 45px;
+  text-align: center;
+  border-radius: 4px;
+  font-size: 15px;
+  color: #fff;
+  background-color: #ff4040;
+}
+

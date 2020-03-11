@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "上进心",
+  "usingComponents": {
+    "suspend-play": "/components/suspendPlayTemplate/index"
+  }
+}

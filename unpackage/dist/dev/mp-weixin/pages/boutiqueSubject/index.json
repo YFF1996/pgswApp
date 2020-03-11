@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "精品课",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "goods-navigation": "/components/goodsNavigationTemplate/index",
+    "goods-list": "/components/subjectGoodsListTemplate/index"
+  }
+}

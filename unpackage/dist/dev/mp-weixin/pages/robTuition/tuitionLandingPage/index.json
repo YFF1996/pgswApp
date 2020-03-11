@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "邀请分享",
+  "usingComponents": {
+    "tuition-draw-popup": "/components/tuitionDrawPopupTemplate/index"
+  }
+}

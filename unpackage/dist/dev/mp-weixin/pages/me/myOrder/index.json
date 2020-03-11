@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "订单列表",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "order-list": "/components/orderListTemplate/index",
+    "loading-more": "/components/loadingMoreTemplate/index"
+  }
+}

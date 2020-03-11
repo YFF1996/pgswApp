@@ -1,0 +1,27 @@
+.classify-wrapper.data-v-0e5c5f47 {
+  width: 100%;
+  height: 100%;
+}
+.classify-wrapper .title.data-v-0e5c5f47 {
+  padding: 0 0 13px 15px;
+  box-sizing: border-box;
+  font-size: 15px;
+  font-weight: bold;
+  color: #000;
+}
+.classify-wrapper .advertising-list.data-v-0e5c5f47 {
+  width: 100%;
+  height: auto;
+}
+.classify-wrapper .advertising-list .special-banner.data-v-0e5c5f47 {
+  width: 100%;
+  height: auto;
+  padding: 0 15px 15px;
+  box-sizing: border-box;
+}
+.classify-wrapper .advertising-list .special-banner image.data-v-0e5c5f47 {
+  width: 100%;
+  height: 150px;
+  border-radius: 4px;
+}
+

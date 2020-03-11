@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "瓶盖思维",
+  "usingComponents": {
+    "navigation": "/components/navigationTemplate/index",
+    "music-play": "/components/musicPlayTemplate/index",
+    "news": "/components/newsTemplate/index",
+    "video-play-list": "/components/videoPlayListTemplate/index",
+    "job-classify": "/components/jobClassifyTemplate/index"
+  }
+}

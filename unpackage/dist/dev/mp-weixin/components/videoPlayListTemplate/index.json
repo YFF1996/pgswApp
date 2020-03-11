@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "more-operate": "/components/moreOperateTempage/index",
+    "loading-more": "/components/loadingMoreTemplate/index"
+  }
+}
